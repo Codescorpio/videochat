@@ -1,1 +1,2 @@
-# videochat. It is very nicely made.
+# videochat.
+Add a readme bro
